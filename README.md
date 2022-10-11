@@ -1,5 +1,5 @@
 # Aaditya
-Hi There
+Hi There     
 I am Aaditya, a college student 
 Learning about DSA and Development
 A college student persuing his bachelors in computer science
